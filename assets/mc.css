@@ -1,0 +1,130 @@
+.head{
+    width: 100%;
+    height: 120px;
+    
+    display: flex;
+    
+
+}
+body{
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+    border: 0px;
+    margin: 0px;
+}
+.table{
+    text-align: center;
+    border-spacing: 15px;
+    padding: 10px;
+    margin-right:auto;
+    column-gap: 40px;
+    padding-right: 20px;
+   
+}
+.headlogo{
+
+      margin-left: 350px;
+    height: 120px;
+
+}
+.body{
+    position:relative;
+    margin-left: 20px;
+    display:flex;
+    width: 100%;
+    height: 300vh;
+    background-color: rgb(182, 107, 9);
+} 
+.body1image{
+           
+     width:600;
+     height: 37vh;
+     margin-top: 125px;
+     background-color: aquamarine;
+     margin-left: 350px;
+     display: flex;
+}
+.body1{
+    display: flex;
+    width:100%;
+    height: 20;
+    border-radius: 4px;
+}
+     
+
+
+.hedding{
+    
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.body1text{
+     
+  width: 350px;
+  height: 35vh;
+  margin-top: 125px;
+     margin-left: 80px;
+     display: inline;
+     font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+     
+}
+.bottomform{
+     
+    
+    margin-left: 30%;
+       text-align:center;
+       border-spacing: 200px;
+       
+       padding-right: 50px;
+       margin-top: 80px;
+       letter-spacing: -0.15px;
+       font-size: 1pc;
+       padding-left: 20px;
+       column-gap: 30px;
+       border: 5px;
+       border-color: black;
+    
+    
+    }
+table{
+    border-collapse: separate;
+  border-spacing: 0px;
+  font-size: 1pc;
+  letter-spacing: -0.15px;
+  font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.bottomlogo{
+    
+      margin-left: 225px;
+      font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+}
+.bottomblank{
+    width: 100%;
+    height: 15vh;}
+.bottomtext{
+     margin-top: 15px;
+}
+.tablebottom{
+    
+
+}
+.button{
+
+    border-radius: 4px;
+    background-color: rgb(255, 188, 13);
+    padding: 8px 25px;
+    border: 0px;
+    user-select: auto;
+}
+.bottomform table{
+
+ border-color: rgb(8, 8, 8);
+
+}
+.body1text h1{
+    line-height: 30px;
+}
